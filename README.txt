@@ -1,0 +1,1 @@
+This was coded by Alestor Aldous/Alestor-Tech-Industries.You have the right to change or upgrade the code.This is a simple code for printing "HELLO WORLD" on the lcd.It uses digital pins such as 8,,9,10,11,12,13.We use a Library called liquidcrystal library.You should first add the zip library befor uploading the code.Thank you.
